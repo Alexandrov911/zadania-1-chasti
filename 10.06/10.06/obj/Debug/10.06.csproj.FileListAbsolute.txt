@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\10.06\10.06\bin\Debug\10.06.exe.config
+C:\Users\Lenovo\source\repos\10.06\10.06\bin\Debug\10.06.exe
+C:\Users\Lenovo\source\repos\10.06\10.06\bin\Debug\10.06.pdb
+C:\Users\Lenovo\source\repos\10.06\10.06\obj\Debug\10.06.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\10.06\10.06\obj\Debug\10.06.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\10.06\10.06\obj\Debug\10.06.exe
+C:\Users\Lenovo\source\repos\10.06\10.06\obj\Debug\10.06.pdb
